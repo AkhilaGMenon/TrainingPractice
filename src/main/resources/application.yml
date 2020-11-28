@@ -1,0 +1,11 @@
+ server:
+  servlet:
+    context-path: /test
+  path: 8080
+ 
+ info:
+  app:
+   name:@project.name@
+   
+   
+  
