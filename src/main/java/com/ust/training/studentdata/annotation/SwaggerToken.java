@@ -1,4 +1,7 @@
-package com.ust.practice.controller;
+/***
+ * Project Name:StudentData
+ */
+package com.ust.training.studentdata.annotation;
 
 import java.lang.annotation.Documented;
 import java.lang.annotation.ElementType;
